@@ -60,3 +60,7 @@ net user "ABBIECPI" "P@ssw0rd" /add
 net user "AP-PI-2" "P@ssw0rd" /add
 net user "SAMWKS" "P@ssw0rd" /add
 net user "CRYSTALAO" "P@ssw0rd" /add
+net user "SYSADM" "P@ssw0rd" /add
+net user "FM" "P@ssw0rd" /add
+net user "PROCUREMENT" "P@ssw0rd" /add
+net user "HR" "P@ssw0rd" /add
