@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="Server" value="10.20.112.111" />
+    <add key="ClientServicesPort" value="7046" />
+    <add key="ServerInstance" value="NAV" />
+    <add key="TenantId" value="" />
+    <add key="ClientServicesProtectionLevel" value="EncryptAndSign" />
+    <add key="UrlHistory" value="10.20.112.111:7046/NAV" />
+    <add key="ClientServicesCompressionThreshold" value="64" />
+    <add key="ClientServicesChunkSize" value="28" />
+    <add key="MaxNoOfXMLRecordsToSend" value="5000" />
+    <add key="MaxImageSize" value="26214400" />
+    <add key="ClientServicesCredentialType" value="UserName" />
+    <add key="ACSUri" value="" />
+    <add key="AllowNtlm" value="true" />
+    <add key="ServicePrincipalNameRequired" value="False" />
+    <add key="ServicesCertificateValidationEnabled" value="true" />
+    <add key="DnsIdentity" value="" />
+    <add key="HelpServer" value="HQSMOSRPA002V" />
+    <add key="HelpServerPort" value="49000" />
+    <add key="ProductName" value="" />
+    <add key="UnknownSpnHint" value="(net.tcp://localhost:7046/NAV/Service)=NoSpn;(net.tcp://hqsmosrpa002v:7046/nav/Service)=NoSpn;(net.tcp://10.20.112.111:7046/NAV/Service)=NoSpn;" />
+  </appSettings>
+</configuration>
