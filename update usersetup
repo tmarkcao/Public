@@ -1,0 +1,10 @@
+update [F&P Live$User Setup]
+set [User ID] = REPLACE([User ID],'MLRT\','HQSMOSRPA002V\')
+,[Approver ID] = REPLACE([Approver ID],'MLRT\','HQSMOSRPA002V\')
+
+update [HR Live$User Setup]
+set [User ID] = REPLACE([User ID],'MLRT\','HQSMOSRPA002V\')
+,[Approver ID] = REPLACE([Approver ID],'MLRT\','HQSMOSRPA002V\')
+
+update [F&P Live$Workflow User Group Member]
+set [User Name] = REPLACE([User Name],'MLRT\','HQSMOSRPA002V\')
